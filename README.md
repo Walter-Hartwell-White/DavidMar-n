@@ -13,7 +13,7 @@ You can use the website to generate badges: https://shields.io/
 
 I’m...
 - working on __[Institut Tecnològic de Barcelona](https://github.com/zjayers/chalkboard)__.
-- learning __Python__ & __MongoDB__. 💻
+- learning __Laravel__. 💻
 - a cat's & dogs person 🐱🐶
 - looking to collaborate on anything fun! ✊
 <br />

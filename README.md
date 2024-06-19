@@ -16,9 +16,10 @@ I’m...
 - learning __Python__ & __MongoDB__. 💻
 - a cat's & dogs person 🐱🐶
 - looking to collaborate on anything fun! ✊
-- Ask me about anything, preferably bikes or mountaineering, I am happy to help. 🚴‍♂️ 🌄
-- I have worked as a cook, waiter, tester, application programmer, web programmer, designer, teacher... And I ran two seasons for a bike shop! 😅
-- How to reach me: __dmarins@gmail.com__ & __david.marin@itb.cat__ 📫
+<br />
+Ask me about anything, preferably bikes or mountaineering, I am happy to help. 🚴‍♂️ 🌄
+I have worked as a cook, waiter, tester, application programmer, web programmer, designer, teacher... And I ran two seasons for a bike shop! 😅
+How to reach me: __dmarins@gmail.com__, __dmarin2@xtec.cat__ & __david.marin@itb.cat__ 📫
 <br /><br />
 
 **Languages and Tools: (not in this order)**

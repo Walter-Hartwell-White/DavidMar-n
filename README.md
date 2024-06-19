@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 I’m...
 - working on __[Institut Tecnològic de Barcelona](https://github.com/zjayers/chalkboard)__.
 - learning __Laravel__. 💻
-- a cats, dogs & my daughters/son person 🐱🐶:girl::boy::girl:
+- a cats, dogs & my daughters/son person 🐱🐶👧👦👧
 - looking to collaborate on anything fun! ✊
 <br />
 Ask me about anything, preferably bikes or mountaineering, I am happy to help. 🚴‍♂️ 🌄

@@ -12,14 +12,14 @@ You can use the website to generate badges: https://shields.io/
 **About Me:**
 
 I’m...
-- working on __[Institut Tecnològic de Barcelona](https://github.com/zjayers/chalkboard)__.
+- working on __[Institut Tecnològic de Barcelona](https://itb.cat/)__ & __[ILERNA]([https://itb.cat/](https://www.ilerna.es/fp-barcelona/?utm_source=adwords&utm_medium=cpc&utm_campaign=Centro_Captaci%C3%B3n_Barcelona_Search_Brand&gad_source=1&gclid=Cj0KCQjw9Km3BhDjARIsAGUb4nzt0GrMgJNYpjptB_qHc1E45sGowAVXH2EZnTf8t0b0urIoNOB0wq0aAphEEALw_wcB))__.
 - learning __Laravel__. 💻
 - a cats, dogs & my daughters/son person 🐱🐶👧👦👧
 - looking to collaborate on anything fun! ✊
 <br />
 Ask me about anything, preferably bikes or mountaineering, I am happy to help. 🚴‍♂️ 🌄
 I have worked as a cook, waiter, tester, application programmer, web programmer, designer, teacher... And I ran two seasons for a bike shop! 😅
-How to reach me: __dmarins@gmail.com__, __dmarin2@xtec.cat__ & __david.marin@itb.cat__ 📫
+How to reach me: __dmarins@gmail.com__, __dmarin2@xtec.cat__, __david.marin@itb.cat__ & __dmarin@ilerna.com__ 📫
 <br /><br />
 
 **Languages and Tools: (not in this order)**

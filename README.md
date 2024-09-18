@@ -12,7 +12,7 @@ You can use the website to generate badges: https://shields.io/
 **About Me:**
 
 I’m...
-- working on __[Institut Tecnològic de Barcelona](https://itb.cat/)__ & __[ILERNA]([https://itb.cat/](https://www.ilerna.es/fp-barcelona/?utm_source=adwords&utm_medium=cpc&utm_campaign=Centro_Captaci%C3%B3n_Barcelona_Search_Brand&gad_source=1&gclid=Cj0KCQjw9Km3BhDjARIsAGUb4nzt0GrMgJNYpjptB_qHc1E45sGowAVXH2EZnTf8t0b0urIoNOB0wq0aAphEEALw_wcB))__.
+- working on __[Institut Tecnològic de Barcelona](https://itb.cat/)__ & __[ILERNA](https://www.ilerna.es/fp-barcelona/?utm_source=adwords&utm_medium=cpc&utm_campaign=Centro_Captaci%C3%B3n_Barcelona_Search_Brand&gad_source=1&gclid=Cj0KCQjw9Km3BhDjARIsAGUb4nzt0GrMgJNYpjptB_qHc1E45sGowAVXH2EZnTf8t0b0urIoNOB0wq0aAphEEALw_wcB)__.
 - learning __Laravel__. 💻
 - a cats, dogs & my daughters/son person 🐱🐶👧👦👧
 - looking to collaborate on anything fun! ✊
